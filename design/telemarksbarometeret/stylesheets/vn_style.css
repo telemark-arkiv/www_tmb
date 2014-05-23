@@ -1,0 +1,121 @@
+table{
+    border:0px; /* border="0" */
+    border-collapse:collapse; /* cellspacing="0" */
+    width: 100%;
+}
+
+table td{
+    padding:2px; /* cellpadding="0" */
+}
+
+#siteSearch #searchbutton {
+    background: url(../images/search.png) no-repeat 0 50%;
+    border: 0;
+    padding: 8px;
+    text-indent: -9999px;
+}
+
+.frontpage #content, .frontpage #main-content {
+    padding: 0;
+    margin: 0;
+}
+
+#frontpage_content_wrapper .items {
+    overflow: hidden;
+}
+
+#frontpage_content_wrapper .body {
+    text-align: left;
+    font-size: 12pt;
+    color: #244973;
+}
+
+#main-content.two-columns {
+    overflow: hidden;
+}
+#main-content.two-columns #column-1 {
+    width: 69%;
+    padding: 10px 1% 0 0;
+    float: left;
+}
+
+#main-content.two-columns #column-2 {
+    width: 30%;
+    float: right;
+}
+
+#megaDropDown {
+    position: relative;
+    overflow: visible;
+}
+
+#megaDropDownMenu {
+    z-index: 1000;
+    top: -10px;
+    display: none;
+}
+
+#column-1 h4 {
+    font-family: "Times New Roman",serif;
+    margin: 15px 0;
+    font-size: 1.4em;
+}
+
+#frontpage_content_wrapper h3 {
+    font-family: Verdana,Helvetica,Arial,sans-serif;
+}
+
+#main-content iframe {
+    width: 100%;
+    border: 0;
+}
+
+.breadcrumbs {
+   overflow:hidden;
+}
+
+#breadcrumbs{
+  zoom:1;
+}
+
+.breadcrumbs li{
+   float: left;
+}
+
+nav{
+   display: block;
+}
+
+.banner{
+   overflow:hidden;
+}
+
+#banner{
+  position: relative;
+}
+
+#tbm_logo{
+  position: absolute;
+  margin: 0;
+  top: 10px;
+  left: 55px;
+}
+
+#tbm_tittel {
+  position: absolute;
+  margin: 0;
+  top: 28px;
+  left: 210px;
+}
+
+#searchbutton {
+  zoom: 1;
+  width: 16px;
+  float: left;
+  margin-left: 5px;
+}
+
+#searchtext {
+ float: left;
+}
+
