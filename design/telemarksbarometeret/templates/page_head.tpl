@@ -24,7 +24,7 @@
 
 {/let}
 {/if}
-    <title>{$site_title}</title>
+    <title>{$site_title} - New version</title>
 
     {*if and(is_set($#Header:extra_data),is_array($#Header:extra_data))}
       {section name=ExtraData loop=$#Header:extra_data}
