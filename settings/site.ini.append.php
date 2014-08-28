@@ -1,6 +1,6 @@
 <?php /*
 
 [RegionalSettings]
-TranslationExtensions[]=telemarksbarometeret
+TranslationExtensions[]=tmb
 
 */ ?>
